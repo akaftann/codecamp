@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
+	"description": "project for codecamp",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
